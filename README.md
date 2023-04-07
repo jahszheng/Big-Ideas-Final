@@ -1,4 +1,4 @@
-#Big Ideas Final
+##Big Ideas Final
 This repository will be used to store the materials used in the CMPINF0010 final project
 
 ##Group Members
