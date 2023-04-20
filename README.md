@@ -29,4 +29,5 @@ https://data.wprdc.org/dataset/non-traffic-citations - Citations
 The Citations data set showed the frequency and locations of low level crimes happened in the Pittsburgh area.  
 
 ## Overview
-This repository is housing the notebook files that conclude that Mount Oliver Borough is one of the safest neighborhoods in the Pittsburgh area, the main goal of this project is to determine the "best" neighborhood in the Pittsburgh area.
+This repositority is used to house the files to determine the best neighborhood in the Pittsburgh area by three metrics: number of police incidents, citation count, and fire incident count.  
+
